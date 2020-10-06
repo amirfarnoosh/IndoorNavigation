@@ -2,7 +2,7 @@
 
 This is the MATLAB code associated with paper [First-person indoor navigation via vision-inertial data fusion](https://ieeexplore.ieee.org/abstract/document/8373507)
 
-<img src="figs/hallway_results.png" width="400" height="790"> 
+<img src="figs/hallway_results.png" width="200"> 
 
 ## Sample Video 
 
