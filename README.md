@@ -1,30 +1,14 @@
 ﻿# Indoor Navigation via Vision-Inertial Data Fusion
 
-This is the code associated with paper [First-person indoor navigation via vision-inertial data fusion](https://ieeexplore.ieee.org/abstract/document/8373507)
+This is the MATLAB code associated with paper [First-person indoor navigation via vision-inertial data fusion](https://ieeexplore.ieee.org/abstract/document/8373507)
 
-![Algorithm Result](figs/hallway_results.png)
+![Algorithm Result](figs/hallway_results.png) 
 
+## Sample Video 
 
-## Contents   
-* [1. Requirement](#1-requirement)
-* [2. iPhone App for Collecting Video-IMU](#2-iphone-app-for-collecting-video-imu)
-* [3. Running Code for Hallway Video](#3-running-code-for-hallway-video)
-* [Citation](#citation)
-* [License](#license)
+The original video of the hallway used for experiments in the paper along with its IMU measurements collected with our iPhone App is included in `./sample_video/` directory. 
 
-## 1. Requirement 
-
-This code is written with MATLAB R2016b
-
-## 2. iPhone App for Collecting Video-IMU
-
-Contact [Sarah Ostadabbas](ostadabbas@ece.neu.edu) to request access to our iPhone App for collecting synchronous video and IMU data with adjustable frequency   
-
-## 2. Sample Video 
-
-The original video of the hallway used for experiments in the paper along with its IMU measurements collected with our iPhone App is included in `./sample_video/` directory.  
-
-## 3. Running Code for Hallway Video  
+## Running Code for Hallway Video  
 
 Run `demo_vpdetect_modular.m`
 
