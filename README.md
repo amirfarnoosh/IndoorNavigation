@@ -1,14 +1,12 @@
 ﻿# Indoor Navigation via Vision-Inertial Data Fusion
 
-This is the MATLAB code associated with paper [First-person indoor navigation via vision-inertial data fusion](https://ieeexplore.ieee.org/abstract/document/8373507)
+This is the MATLAB code associated with the paper: [First-person indoor navigation via vision-inertial data fusion](https://ieeexplore.ieee.org/abstract/document/8373507)
 
 <p align="center" width="100%">
   <img src="figs/hallway_results.png" width="600"> 
 </p>
 
-## Sample Video 
-
-The original video of the hallway used for experiments in the paper along with its IMU measurements collected with our iPhone App is included in `./sample_video/` directory. 
+The hallway video and its synchronized IMU measurements are included in `./sample_video/` directory. 
 
 ## Running Code for Hallway Video  
 
